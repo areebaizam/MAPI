@@ -4,3 +4,6 @@
 
 # Visual Studio Code
 .vs/*
+
+#idx
+.idx/*
